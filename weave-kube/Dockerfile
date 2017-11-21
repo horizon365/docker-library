@@ -1,2 +1,2 @@
-FROM weaveworks/weave-kube:1.8.1
+FROM weaveworks/weave-kube:2.1.1
 MAINTAINER mritd <mritd@mritd.me>
